@@ -1,0 +1,744 @@
+Indicador,Descrição,Periodicidade
+Homicídio de Jovens por Armas de Fogo,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E965 (Agressão com disparo de arma de fogo).
+
+
+Foram considerados os códigos CIDs 10: X93-X95 (Agressão com disparo de arma de fogo)
+
+
+Óbitos por residência.
+
+
+Observação: Foram utilizados os óbitos de indivíduos de 15 a 29 anos.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+De 1996 em diante, foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios de Homens por Armas de Fogo,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E965 (Agressão com disparo de arma de fogo).
+
+
+Considera os códigos CIDs 10: X93-X95 (Agressão com disparo de arma de fogo)
+
+
+Óbitos por residência.
+
+
+Observação: Foram utilizados os óbitos masculinos.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios de Jovens,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos da faixa etária de 15 a 29 anos sem distinção de gênero.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios de Jovens - Homens,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos masculinos da faixa etária de 15 a 29 anos.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios de Jovens - Mulheres,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos femininos da faixa etária de 15 a 29 anos.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios de Mulheres por Armas de Fogo,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E965 (Agressão com disparo de arma de fogo).
+
+
+Foram utilizados os códigos CIDs 10: X93-X95 (Agressão com disparo de arma de fogo)
+
+
+Óbitos por residência.
+
+
+Observação: Foram considerados os óbitos femininos.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios Homens,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos masculinos.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios Homens Não Negros,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência
+
+
+Observação: Considera os óbitos masculinos de indivíduos de cor/raça branca, amarela e indígena, desconsiderando os de cor/raça ignorada.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios Homens Negros,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos masculinos de indivíduos de cor/raça preta e parda, desconsiderando os de cor/raça ignorada.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios Mulheres,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos femininos.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios Mulheres Não Negras,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos  femininos de indivíduos de cor/raça branca, amarela e indígena, desconsiderando os de cor/raça ignorada.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios Mulheres Negras,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Negros: Observação: Considera os óbitos femininos de indivíduos de cor/raça preta e parda, desconsiderando os de cor/raça ignorada.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios Não Negros,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos de indivíduos de cor/raça branca, amarela e indígena, desconsiderando os de cor/raça ignorada.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios Negros,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Observação: Considera os óbitos de indivíduos de cor/raça preta e parda, desconsiderando os de cor/raça ignorada.
+
+
+Elaboração Diest/Ipea.",Anual
+Homicídios por Armas de Fogo,"Fonte: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E965 (Agressão com disparo de arma de fogo).
+
+
+Foram utilizados os códigos CIDs 10: X93-X95 (Agressão com disparo de arma de fogo)
+
+
+Óbitos por residência.
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídio de Jovens por Armas de Fogo,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade – SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E965 (Agressão com disparo arma fogo).
+
+
+Foram utilizados os códigos CIDs 10: X93-X95 (Agressão com disparo arma fogo).
+
+
+Óbitos por residência.
+
+
+População o recorte Brasil, UF e Regiões
+
+
+1980, 1991, 2000 e 2010: IBGE - Censos Demográficos
+
+
+1996: IBGE - Contagem Populacional
+
+
+1981-1990, 1992-1999: IBGE - Estimativas preliminares para os anos intercensitários dos totais populacionais MS/SGEP/Datasus.
+
+
+População utilizada nos anos 2000 a 2020: População Residente - Estimativas para o TCU – Brasil
+
+
+População para o recorte de Capitais e Município
+
+
+População Municipal: Estimativas Populacionais por município, idade e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+
+Observação: Foram considerados os óbitos da faixa etária de 15 a 29 anos.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídio de Mulheres por Armas de Fogo,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade – SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E965 (Agressao com disparo arma fogo).
+
+
+Foram utilizados os códigos CIDs 10: X93-X95 (Agressao com disparo arma fogo).
+
+
+Óbitos por residência.
+
+
+População o recorte Brasil, UF e Regiões
+
+
+1980, 1991, 2000 e 2010: IBGE - Censos Demográficos
+
+
+1996: IBGE - Contagem Populacional
+
+
+1981-1990, 1992-1999: IBGE - Estimativas preliminares para os anos intercensitários dos totais populacionais MS/SGEP/Datasus.
+
+
+População utilizada nos anos 2000 a 2020: População Residente - Estimativas para o TCU – Brasil
+
+
+População para o recorte de Capitais e Município
+
+
+População Municipal: Estimativas Populacionais por município, idade e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+
+Observação: Foram considerados os óbitos femininos.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios de Homens por Armas de Fogo,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade – SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E965 (Agressao com disparo arma fogo).
+
+
+Foram utilizados os códigos CIDs 10: X93-X95 (Agressao com disparo arma fogo).
+
+
+Óbitos por residência.
+
+
+População o recorte Brasil, UF e Regiões
+
+
+1980, 1991, 2000 e 2010: IBGE - Censos Demográficos
+
+
+1996: IBGE - Contagem Populacional
+
+
+1981-1990, 1992-1999: IBGE - Estimativas preliminares para os anos intercensitários dos totais populacionais MS/SGEP/Datasus.
+
+
+População utilizada nos anos 2000 a 2020: População Residente - Estimativas para o TCU – Brasil
+
+
+População para o recorte de Capitais e Município
+
+
+População Municipal: Estimativas Populacionais por município, idade e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+
+Observação: Foram considerados os óbitos masculinos.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios de Jovens,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+ 
+
+
+População por Sexo e faixa etária para o recorte Brasil, UF e Regiões
+
+
+2000-2020: Projeção da População das Unidades da Federação por sexo e grupos de idade: 2000 a 2030.
+
+
+População para o recorte de Capitais e Municípios
+
+
+População Municipal: Estimativas Populacionais por município, idade e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+
+ 
+
+
+Observação: Foram considerados os óbitos da faixa etária de 15 a 29 anos.
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios de Jovens - Homens,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+ 
+
+
+População por Sexo e faixa etária para o recorte Brasil, UF e Regiões
+
+
+2000-2020: Projeção da População das Unidades da Federação por sexo e grupos de idade: 2000 a 2030.
+
+
+População para o recorte de Capitais e Municípios
+
+
+População Municipal: Estimativas Populacionais por município, idade e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+
+ 
+
+
+Observação: Foram considerados os óbitos masculinos da faixa etária de 15 a 29 anos.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios de Jovens - Mulheres,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+ 
+
+
+População por Sexo e faixa etária para o recorte Brasil, UF e Regiões
+
+
+2000-2020: Projeção da População das Unidades da Federação por sexo e grupos de idade: 2000 a 2030.
+
+
+População para o recorte de Capitais e Municípios
+
+
+População Municipal: Estimativas Populacionais por município, idade e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+
+ 
+
+
+Observação: Foram considerados os óbitos femininos da faixa etária de 15 a 29 anos.
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios Homens,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+ 
+
+
+População por Sexo para o recorte Brasil, UF e Regiões
+
+
+2000-2020: Projeção da População das Unidades da Federação por sexo: 2000 a 2030.
+
+
+População para o recorte de Capitais e Municípios
+
+
+População Municipal: Estimativas Populacionais por município e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+
+ 
+
+
+Observação: Foram considerados os óbitos masculinos.
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios Homens Não Negros,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal).
+
+
+Óbitos por residência.
+
+
+População por Sexo e raça/cor para o recorte Brasil, UF e Regiões
+
+
+2000 a 2020: Pesquisa Nacional por Amostra de Domicílios e PNAD Contínua - PNADc
+
+
+Não-Negros: Foram utilizados os óbitos e os indivíduos declarados como brancos, amarelos e indígena, todos os ignorados não entraram nas contas. Ambos limitados ao sexo masculino. Taxa multiplicada por 100.000.
+
+
+Observação: Foram considerados os óbitos masculinos.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios Homens Negros,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal).
+
+
+Óbitos por residência.
+
+
+População por Sexo e raça/cor para o recorte Brasil, UF e Regiões
+
+
+2000 a 2020: Pesquisa Nacional por Amostra de Domicílios e PNAD Contínua - PNADc
+
+
+Negros: Observação: Considera os óbitos e os indivíduos declarados como pardos e pretos, todos os ignorados não entraram nas contas. Ambos limitados ao sexo masculino. Taxa multiplicada por 100.000.
+
+
+Observação: Foram considerados os óbitos masculinos.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios Mulheres,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+ 
+
+
+População por Sexo para o recorte Brasil, UF e Regiões
+
+
+2000-2020: Projeção da População das Unidades da Federação por sexo: 2000 a 2030.
+
+
+População para o recorte de Capitais e Municípios
+
+
+População Municipal: Estimativas Populacionais por município e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+Observação: Foram considerados os óbitos femininos.
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios Mulheres Não Negras,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal).
+
+
+Óbitos por residência.
+
+
+População por Sexo e raça/cor para o recorte Brasil, UF e Regiões
+
+
+2000 a 2020: Pesquisa Nacional por Amostra de Domicílios e PNAD Contínua - PNADc
+
+
+Não-Negros: Foram considerados os óbitos e os indivíduos declarados como brancos, amarelos e indígena, todos os ignorados não entraram nas contas. Ambos limitados ao sexo feminino. Taxa multiplicada por 100.000.
+
+
+Observação: Foram considerados os óbitos femininos.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios Mulheres Negras,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal).
+
+
+Óbitos por residência.
+
+
+População por Sexo e raça/cor para o recorte Brasil, UF e Regiões
+
+
+2000 a 2020: Pesquisa Nacional por Amostra de Domicílios e PNAD Contínua - PNADc
+
+
+Negros: Observação: Foram considerados os óbitos e os indivíduos declarados como pardos e pretos, todos os ignorados não entraram nas contas. Ambos limitados ao sexo feminino. Taxa multiplicada por 100.000.
+
+
+Observação: Foram considerados os óbitos femininos.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios Não Negros,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal).
+
+
+Óbitos por residência.
+
+
+População por Sexo e raça/cor para o recorte Brasil, UF e Regiões
+
+
+2000 a 2020: Pesquisa Nacional por Amostra de Domicílios e PNAD Contínua - PNADc
+
+
+Não-Negros: Foram considerados os óbitos e os indivíduos declarados como brancos, amarelos e indígena, todos os ignorados não entraram nas contas. Taxa multiplicada por 100.000.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios Negros,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Foram utilizados os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal).
+
+
+Óbitos por residência.
+
+
+População por Sexo e raça/cor para o recorte Brasil, UF e Regiões
+
+
+2000 a 2020: Pesquisa Nacional por Amostra de Domicílios e PNAD Contínua - PNADc
+
+
+Negros: Observação: Foram considerados os óbitos e os indivíduos declarados como pardos e pretos, todos os ignorados não entraram nas contas. Taxa multiplicada por 100.000.
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa de Homicídios por Armas de Fogo,"Fontes: MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade – SIM
+
+
+Para o período de 1979 a 1995 foram considerados os códigos CIDs 9: E965 (Agressao com disparo arma fogo).
+
+
+Foram utilizados os códigos CIDs 10: X93-X95 (Agressao com disparo arma fogo).
+
+
+Óbitos por residência.
+
+
+População o recorte Brasil, UF e Regiões
+
+
+1980, 1991, 2000 e 2010: IBGE - Censos Demográficos
+
+
+1996: IBGE - Contagem Populacional
+
+
+1981-1990, 1992-1999: IBGE - Estimativas preliminares para os anos intercensitários dos totais populacionais MS/SGEP/Datasus.
+
+
+População utilizada nos anos 2000 a 2020: População Residente - Estimativas para o TCU – Brasil
+
+
+População para o recorte de Capitais e Município
+
+
+População Municipal: Estimativas Populacionais por município, idade e sexo 2000-2021
+
+
+Cálculo: (Óbitos / População) *100.000
+
+
+Elaboração Diest/Ipea.",Anual
+Taxa Homicídios,"Fonte:
+
+
+População utilizada no ano 1996: IBGE - Contagem Populacional; nos anos 1997-2003 e 2016:População Residente - Estimativas para o TCU - Brasil; 2004-2015: IBGE/Diretoria de Pesquisas. Coordenação de População e Indicadores Sociais. Gerência de Estudos e Análises da Dinâmica Demográfica. Somente na abrangência referente às Unidades Federativas.
+
+
+IBGE - Contagem Populacional e População Residente - Estimativas para o TCU - Brasil. Para as outras abrangências referentes à Região e País.
+
+
+MS/SVS/CGIAE - Sistema de Informações sobre Mortalidade - SIM
+
+
+Para o período de 1979 a 1995 considera os códigos CIDs 9: E960-E978 (Homicídios e lesões provocadas intencionalmente outras pessoas) e E990-E999 (Intervenções legais).
+
+
+Considera os códigos CIDs 10: X85-Y09 (agressão) e Y35 (intervenção legal)
+
+
+Óbitos por residência.
+
+
+Taxa multiplicada por 100.000.
+
+
+Elaboração Diest/Ipea.",Anual
